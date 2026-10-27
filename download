@@ -1,0 +1,11 @@
+.env
+.env.*
+!.env.example
+*.dpapi
+*.log
+node_modules/
+.wrangler/
+private/
+*dialogue*.txt
+*credentials*
+.DS_Store
